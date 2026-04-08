@@ -1,7 +1,7 @@
 ## Olá, meu nome é Kellen!👋
 
-💻 Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas.
-🧠 Focada em desenvolvimento web, e com interesse em dados. 
+💻 Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas.  
+🧠 Focada em desenvolvimento web, e com interesse em dados.  
 🚀 Em busca de um estágio na área.  
 📍 Belo Horizonte, Brasil.   
 
