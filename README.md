@@ -1,7 +1,7 @@
 ## Olá, meu nome é Kellen!👋🏽
 
 💻 Estudante do 3º semestre de Análise e Desenvolvimento de Sistemas.  
-🧠 Interesse em desenvolvimento Front-end. 
+🧠 Interesse em desenvolvimento Front-end.  
 🚀 Em busca de um estágio na área de tecnologia.  
 📍 Belo Horizonte, Brasil.   
 
@@ -16,7 +16,9 @@
 
 ## 📌 Projetos em destaque
 
-🔹 Arraial do Cabo: 
+🔹 Arraial do Cabo: portal sobre a cidade e suas experiências. 
+🔹 Portfólio pessoal  
+
 
 <!--(ou você pode colocar links depois, tipo:)
 - [Projeto 1](link)
