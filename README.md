@@ -16,8 +16,8 @@
 
 ## 📌 Projetos em destaque
 
-🔹 Arraial do Cabo: portal sobre a cidade e suas experiências. 
-🔹 Portfólio pessoal  
+🔹 [Arraial do Cabo](https://khawena.github.io/projeto-arraial-do-cabo/index.html)  
+🔹 [Portfólio pessoal](https://khawena.github.io/portfolio/) 
 
 
 <!--(ou você pode colocar links depois, tipo:)
